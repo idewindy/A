@@ -1,3 +1,4 @@
 [submodule "B"]
 	path = B
 	url = https://github.com/idewindy/B.git
+	branch = develop
